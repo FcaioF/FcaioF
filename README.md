@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @FcaioF
+- 👋 Hi, I’m Caio Francisco
 
-- 🌱 I’m currently learning Front-end tecnologies (HTML Css and Javascript)
+- 🌱 I’m currently learning data engeneer tecnologies
 
-- 📫 How to reach me  Linkedin profile: https://www.linkedin.com/in/caio-ferreira-4a183a145/
-
-
+- 📫 How to reach me  Linkedin profile: https://www.linkedin.com/in/caio-francisco-ferreira-4a183a145/
